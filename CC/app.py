@@ -30,7 +30,7 @@ def scan_image():
 def upload_to_cloud_storage(file):
     # Configure Google Cloud Storage client
     storage_client = storage.Client()
-    bucket_name = 'your-cloud-storage-bucket'
+    bucket_name = 'reciept-bucket-1'
 
     # Upload the file to Cloud Storage
     bucket = storage_client.bucket(bucket_name)
