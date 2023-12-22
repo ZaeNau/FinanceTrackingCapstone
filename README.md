@@ -11,6 +11,9 @@ We wanted to address this issue because by making it easier for people to track 
 
 ## Project Documents:
 - Project Plan : https://docs.google.com/document/d/1It7szyUsUq8EFtZIumNfWotxfWmAeVHtJ3b06QWu87E/edit?usp=sharing
+- Project Brief : https://drive.google.com/file/d/1Ke0ST5QsAECR_ouog5sCi_EekhL_XTQZ/view
+- Youtube : https://www.youtube.com/watch?v=kJU-ynT7lxU&ab_channel=MuhammadAdityaHastaPratama
+- Go-To-Market : https://drive.google.com/file/d/1i6pY1rvOFz3AMd-IaqQh3QwdXZXRCwO0/view
 
 ## Project Resource: 
 - Paper Reference: -
